@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.jboss.modules.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-modulepath /opt/jbdevstudio/studio/plugins/org.jboss.tools.forge.runtime_1.1.0.Final-v20121205-1934-B69/forge-distribution-1.1.2.Final/modules:/home/shikanga/.forge/plugins:/opt/jbdevstudio/studio/plugins/org.jboss.tools.forge.runtime.ext_1.1.0.Final-v20121205-1934-B69/modules org.jboss.forge"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dforge.home=/opt/jbdevstudio/studio/plugins/org.jboss.tools.forge.runtime_1.1.0.Final-v20121205-1934-B69/forge-distribution-1.1.2.Final -Dforge.shell.colorEnabled=true -Dforge.compatibility.IDE=true -cp /opt/jbdevstudio/studio/plugins/org.jboss.tools.forge.runtime_1.1.0.Final-v20121205-1934-B69/forge-distribution-1.1.2.Final/jboss-modules.jar -Dforge.workspace=/home/shikanga/JBossDevStudioProjects/ticket-monster"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="/home/shikanga/JBossDevStudioProjects/ticket-monster"/>
+<stringAttribute key="process_factory_id" value="org.jboss.tools.forge.core.process.ForgeProcessFactory"/>
+</launchConfiguration>

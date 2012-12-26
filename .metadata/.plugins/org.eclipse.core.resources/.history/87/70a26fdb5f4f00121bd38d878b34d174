@@ -1,0 +1,40 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+import java.io.Serializable;
+import java.lang.Long;
+import java.lang.String;
+import javax.persistence.*;
+
+/**
+ * Entity implementation class for Entity: EventCategory
+ *
+ */
+@Entity
+
+public class EventCategory implements Serializable {
+
+	   
+	@Id
+	private Long id;
+	private String description;
+	private static final long serialVersionUID = 1L;
+
+	public EventCategory() {
+		super();
+	}   
+	public Long getId() {
+		return this.id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}   
+	public String getDescription() {
+		return this.description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+   
+}
