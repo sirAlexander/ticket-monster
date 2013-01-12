@@ -1,0 +1,73 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+import java.io.Serializable;
+import java.lang.Long;
+import java.lang.String;
+import javax.persistence.*;
+import org.jboss.jdf.example.ticketmonster.model.Venue;
+
+/**
+ * Entity implementation class for Entity: Section
+ *
+ */
+@Entity
+
+public class Section implements Serializable {
+
+	   
+	@Id
+	private Long id;
+	private String name;
+	private String description;
+	private Venue venue;
+	private int numberOfRows;
+	private int rowCapacity;
+	private static final long serialVersionUID = 1L;
+
+	public Section() {
+		super();
+	}   
+	public Long getId() {
+		return this.id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}   
+	public String getName() {
+		return this.name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}   
+	public String getDescription() {
+		return this.description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}   
+	public Venue getVenue() {
+		return this.venue;
+	}
+
+	public void setVenue(Venue venue) {
+		this.venue = venue;
+	}   
+	public int getNumberOfRows() {
+		return this.numberOfRows;
+	}
+
+	public void setNumberOfRows(int numberOfRows) {
+		this.numberOfRows = numberOfRows;
+	}   
+	public int getRowCapacity() {
+		return this.rowCapacity;
+	}
+
+	public void setRowCapacity(int rowCapacity) {
+		this.rowCapacity = rowCapacity;
+	}
+   
+}

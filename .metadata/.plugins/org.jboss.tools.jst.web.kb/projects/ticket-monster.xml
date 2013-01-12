@@ -7,13 +7,13 @@
   <path value="/home/shikanga/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
   <path value="/home/shikanga/.m2/repository/org/apache/maven/maven-repository-metadata/3.0.1/maven-repository-metadata-3.0.1.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.2.Final/jboss-ejb-api_3.1_spec-1.0.2.Final.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/osgi/vfs/jbosgi-vfs30/1.0.7.Final/jbosgi-vfs30-1.0.7.Final.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/metadata/jboss-metadata-ear/7.0.1.Final/jboss-metadata-ear-7.0.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/config/arquillian-config-impl-base/1.0.0.Final/arquillian-config-impl-base-1.0.0.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/metadata/jboss-metadata-ear/7.0.1.Final/jboss-metadata-ear-7.0.1.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/osgi/vfs/jbosgi-vfs30/1.0.7.Final/jbosgi-vfs30-1.0.7.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/apache/maven/maven-settings-builder/3.0.1/maven-settings-builder-3.0.1.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/remoting3/jboss-remoting/3.2.2.GA/jboss-remoting-3.2.2.GA.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/osgi/resolver/jbosgi-resolver-api/1.0.13.Final/jbosgi-resolver-api-1.0.13.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7/wagon-provider-api-1.0-beta-7.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/osgi/resolver/jbosgi-resolver-api/1.0.13.Final/jbosgi-resolver-api-1.0.13.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api-base/2.0.0-alpha-2/shrinkwrap-descriptors-api-base-2.0.0-alpha-2.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/jboss-remote-naming/1.0.2.Final/jboss-remote-naming-1.0.2.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-controller/7.1.1.Final/jboss-as-controller-7.1.1.Final.jar"/>
@@ -27,31 +27,31 @@
   <path value="/home/shikanga/.m2/repository/org/osgi/org.osgi.core/4.2.0/org.osgi.core-4.2.0.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-api-maven/1.0.0-beta-6/shrinkwrap-resolver-api-maven-1.0.0-beta-6.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-spi/1.0.0.Final/arquillian-container-test-spi-1.0.0.Final.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/testenricher/arquillian-testenricher-resource/1.0.0.Final/arquillian-testenricher-resource-1.0.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/hibernate/hibernate-validator-annotation-processor/4.2.0.Final/hibernate-validator-annotation-processor-4.2.0.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/testenricher/arquillian-testenricher-resource/1.0.0.Final/arquillian-testenricher-resource-1.0.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/osgi/repository/jbosgi-repository-api/1.0.5/jbosgi-repository-api-1.0.5.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/jboss-ejb-client/1.0.0.Final/jboss-ejb-client-1.0.0.Final.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/apache/maven/maven-settings/3.0.1/maven-settings-3.0.1.jar"/>
   <path value="/home/shikanga/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/apache/maven/maven-settings/3.0.1/maven-settings-3.0.1.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-remoting/7.1.1.Final/jboss-as-remoting-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-deployment-repository/7.1.1.Final/jboss-as-deployment-repository-7.1.1.Final.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-controller-client/7.1.1.Final/jboss-as-controller-client-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/staxmapper/1.1.0.Final/staxmapper-1.1.0.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-controller-client/7.1.1.Final/jboss-as-controller-client-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-protocol/7.1.1.Final/jboss-as-protocol-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/hibernate/hibernate-jpamodelgen/1.2.0.Final/hibernate-jpamodelgen-1.2.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/jandex/1.0.3.Final/jandex-1.0.3.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/hibernate/hibernate-jpamodelgen/1.2.0.Final/hibernate-jpamodelgen-1.2.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/core/arquillian-core-api/1.0.0.Final/arquillian-core-api-1.0.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/sonatype/aether/aether-impl/1.8/aether-impl-1.8.jar"/>
   <path value="/home/shikanga/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/modules/jboss-modules/1.1.1.GA/jboss-modules-1.1.1.GA.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/container/arquillian-container-spi/1.0.0.Final/arquillian-container-spi-1.0.0.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/modules/jboss-modules/1.1.1.GA/jboss-modules-1.1.1.GA.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/invocation/jboss-invocation/1.1.1.Final/jboss-invocation-1.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-threads/7.1.1.Final/jboss-as-threads-7.1.1.Final.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/marshalling/jboss-marshalling-river/1.3.11.GA/jboss-marshalling-river-1.3.11.GA.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.1_spec/1.0.1.Final/jboss-annotations-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/marshalling/jboss-marshalling-river/1.3.11.GA/jboss-marshalling-river-1.3.11.GA.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/remotingjmx/remoting-jmx/1.0.2.Final/remoting-jmx-1.0.2.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/marshalling/jboss-marshalling/1.3.11.GA/jboss-marshalling-1.3.11.GA.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/osgi/framework/jbosgi-framework-core/1.1.8.Final/jbosgi-framework-core-1.1.8.Final.jar"/>
@@ -126,8 +126,8 @@
   <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-build-config/7.1.1.Final/jboss-as-build-config-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/protocol/arquillian-protocol-servlet/1.0.0.Final/arquillian-protocol-servlet-1.0.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/osgi/resolver/jbosgi-resolver-api-v2/2.0.0.Beta2/jbosgi-resolver-api-v2-2.0.0.Beta2.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-arquillian-testenricher-msc/7.1.1.Final/jboss-as-arquillian-testenricher-msc-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/testenricher/arquillian-testenricher-osgi/1.0.2.Final/arquillian-testenricher-osgi-1.0.2.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-arquillian-testenricher-msc/7.1.1.Final/jboss-as-arquillian-testenricher-msc-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/as/jboss-as-arquillian-common/7.1.1.Final/jboss-as-arquillian-common-7.1.1.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/container/arquillian-container-impl-base/1.0.0.Final/arquillian-container-impl-base-1.0.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/osgi/resolver/jbosgi-resolver-spi/1.0.13.Final/jbosgi-resolver-spi-1.0.13.Final.jar"/>
@@ -143,10 +143,10 @@
   <path value="/home/shikanga/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/protocol/arquillian-protocol-jmx/1.0.0.Final/arquillian-protocol-jmx-1.0.0.Final.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/junit/arquillian-junit-container/1.0.0.Final/arquillian-junit-container-1.0.0.Final.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/apache/felix/org.apache.felix.resolver/0.1.0.Beta1/org.apache.felix.resolver-0.1.0.Beta1.jar"/>
   <path value="/home/shikanga/.m2/repository/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar"/>
-  <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/test/arquillian-test-spi/1.0.0.Final/arquillian-test-spi-1.0.0.Final.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/apache/felix/org.apache.felix.resolver/0.1.0.Beta1/org.apache.felix.resolver-0.1.0.Beta1.jar"/>
   <path value="/home/shikanga/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar"/>
+  <path value="/home/shikanga/.m2/repository/org/jboss/arquillian/test/arquillian-test-spi/1.0.0.Final/arquillian-test-spi-1.0.0.Final.jar"/>
  </paths>
  <validation>
   <core validator-id="jsf-verification"/>
@@ -154,7 +154,7 @@
    <linked-resource declaration="true" name="%1;%2;" path="%0"/>
    <linked-resource declaration="true" name="%4;" path="%3"/>
    <linked-resource name="%6;%0;" path="%5"/>
-   <linked-resource name="%5;%8;%9;%3;%10;%11;%6;%0;" path="%7"/>
+   <linked-resource name="%5;%8;%3;%9;%10;%11;%6;%0;" path="%7"/>
   </core>
   <core validator-id="jboss.jsf.core"/>
   <el>
@@ -183,20 +183,20 @@
    <linked-el length="20" name="%20" offset="2465" path="%14"/>
    <linked-el length="13" name="%4" offset="1894" path="%12"/>
    <linked-el length="18" name="%4" offset="1772" path="%12"/>
-   <linked-el length="46" name="%4" offset="2288" path="%12"/>
    <linked-el length="51" name="%4" offset="2576" path="%12"/>
+   <linked-el length="46" name="%4" offset="2288" path="%12"/>
    <linked-el length="27" name="%4" offset="2628" path="%12"/>
-   <linked-el length="43" name="%4" offset="2037" path="%12"/>
    <linked-el length="45" name="%4" offset="2161" path="%12"/>
-   <linked-el length="23" name="%4" offset="1916" path="%12"/>
+   <linked-el length="43" name="%4" offset="2037" path="%12"/>
    <linked-el length="52" name="%4" offset="2418" path="%12"/>
+   <linked-el length="23" name="%4" offset="1916" path="%12"/>
    <linked-el length="20" name="%21" offset="841" path="%12"/>
-   <linked-el length="46" name="%21" offset="2288" path="%12"/>
-   <linked-el length="26" name="%21" offset="1214" path="%12"/>
    <linked-el length="51" name="%21" offset="2576" path="%12"/>
+   <linked-el length="26" name="%21" offset="1214" path="%12"/>
+   <linked-el length="46" name="%21" offset="2288" path="%12"/>
    <linked-el length="27" name="%21" offset="2628" path="%12"/>
-   <linked-el length="43" name="%21" offset="2037" path="%12"/>
    <linked-el length="45" name="%21" offset="2161" path="%12"/>
+   <linked-el length="43" name="%21" offset="2037" path="%12"/>
    <linked-el length="52" name="%21" offset="2418" path="%12"/>
    <linked-el length="20" name="%21" offset="1020" path="%12"/>
   </el>

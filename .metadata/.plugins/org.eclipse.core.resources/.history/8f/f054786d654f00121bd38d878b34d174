@@ -1,0 +1,49 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+import java.io.Serializable;
+import java.lang.Long;
+import java.lang.String;
+import javax.persistence.*;
+import org.jboss.jdf.example.ticketmonster.model.MediaType;
+
+/**
+ * Entity implementation class for Entity: MediaItem
+ *
+ */
+@Entity
+
+public class MediaItem implements Serializable {
+
+	   
+	@Id
+	private Long id;
+	private MediaType mediaType;
+	private String url;
+	private static final long serialVersionUID = 1L;
+
+	public MediaItem() {
+		super();
+	}   
+	public Long getId() {
+		return this.id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}   
+	public MediaType getMediaType() {
+		return this.mediaType;
+	}
+
+	public void setMediaType(MediaType mediaType) {
+		this.mediaType = mediaType;
+	}   
+	public String getUrl() {
+		return this.url;
+	}
+
+	public void setUrl(String url) {
+		this.url = url;
+	}
+   
+}

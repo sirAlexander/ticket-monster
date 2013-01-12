@@ -1,0 +1,92 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+import java.io.Serializable;
+import java.lang.Long;
+import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+
+import org.jboss.jdf.example.ticketmonster.model.Event;
+import org.jboss.jdf.example.ticketmonster.model.Venue;
+
+/**
+ * <p>
+ * A show is an instance of an event taking place at a particular venue. A show can have multiple performances.
+ * </p>
+ * 
+ * <p>
+ * A show contains a set of performances, and a set of ticket prices for each section of the venue for this show.
+ * </p>
+ * 
+ * <p>
+ * The event and venue form the natural id of this entity, and therefore must be unique. JPA requires us to use the class level
+ * <code>@Table</code> constraint.
+ * </p>
+ *  
+ */
+
+@Entity
+public class Show implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+
+	   
+	/**
+     * The synthetic id of the object.
+     */
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	
+	/**
+     * <p>
+     * The event of which this show is an instance. The <code>@ManyToOne<code> JPA mapping establishes this relationship.
+     * </p>
+     * 
+     * <p>
+     * The <code>@NotNull</code> Bean Validation constraint means that the event must be specified.
+     * </p>
+     */
+    @ManyToOne
+    @NotNull
+	private Event event;
+    
+    /**
+     * <p>
+     * The venue where this show takes place. The <code>@ManyToOne<code> JPA mapping establishes this relationship.
+     * </p>
+     * 
+     * <p>
+     * The <code>@NotNull</code> Bean Validation constraint means that the venue must be specified.
+     * </p>
+     */
+    @ManyToOne
+    @NotNull
+	private Venue venue;
+	
+
+	public Show() {
+		super();
+	}   
+	public Long getId() {
+		return this.id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}   
+	public Event getEvent() {
+		return this.event;
+	}
+
+	public void setEvent(Event event) {
+		this.event = event;
+	}   
+	public Venue getVenue() {
+		return this.venue;
+	}
+
+	public void setVenue(Venue venue) {
+		this.venue = venue;
+	}
+   
+}

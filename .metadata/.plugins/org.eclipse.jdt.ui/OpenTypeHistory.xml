@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=ticket-monster/src\/main\/java&lt;org.jboss.jdf.example.ticketmonster.model{MediaType.java[MediaType" modifiers="16385" timestamp="1356529123000"/>
+<typeInfo handle="=ticket-monster/src\/main\/java&lt;org.jboss.jdf.example.ticketmonster.model{Event.java[Event" modifiers="1" timestamp="1356531858000"/>
+<typeInfo handle="=ticket-monster/\/usr\/java\/jdk1.7.0_03\/jre\/lib\/rt.jar&lt;java.util(Date.class[Date" modifiers="33" timestamp="1345286724000"/>
+<typeInfo handle="=ticket-monster/src\/main\/java&lt;org.jboss.jdf.example.ticketmonster.model{Show.java[Show" modifiers="1" timestamp="1356534869000"/>
+<typeInfo handle="=ticket-monster/src\/main\/java&lt;org.jboss.jdf.example.ticketmonster.model{Venue.java[Venue" modifiers="1" timestamp="1356389239000"/>
+<typeInfo handle="=ticket-monster/src\/main\/java&lt;org.jboss.jdf.example.ticketmonster.model{Seat.java[Seat" modifiers="1" timestamp="1356800769000"/>
+<typeInfo handle="=ticket-monster/src\/main\/java&lt;org.jboss.jdf.example.ticketmonster.model{TicketCategory.java[TicketCategory" modifiers="1" timestamp="1356800824000"/>
+</typeInfoHistroy>

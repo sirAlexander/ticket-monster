@@ -1,0 +1,27 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Embeddable;
+
+@Embeddable
+public class Seat implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
+    @Min(1)
+    private int rowNumber;
+
+    @Min(1)
+    private int number;
+
+    /**
+     * The <code>@ManyToOne<code> JPA mapping establishes this relationship.
+     */
+    @ManyToOne
+    private Section section;
+
+}

@@ -247,3 +247,160 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.jboss.jbds.
 
 !ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 13:38:44.781
 !MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:02:44.590
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:06:23.735
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:06:41.171
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:07:47.647
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:12:53.845
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:23:17.605
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:24:19.762
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:53:22.450
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:53:37.034
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 14:56:36.279
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:00:17.357
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:01:48.125
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:03:01.631
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:03:43.138
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:05:00.738
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:05:19.787
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:06:16.626
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:06:45.065
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:08:03.461
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:09:13.822
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:11:22.393
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:11:41.201
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:12:31.713
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:12:38.459
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:13:03.229
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:13:41.794
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:14:31.140
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-26 15:21:20.151
+!MESSAGE Module ticket-monster published without error.
+!SESSION 2012-12-29 15:42:52.263 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_03
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product com.jboss.jbds.product.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product com.jboss.jbds.product.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 16:45:10.464
+!MESSAGE 8 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2012-12-29 16:45:16.191
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2012-12-29 16:45:27.879
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2012-12-29 16:45:28.029
+!MESSAGE Module ticket-monster on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2012-12-29 16:45:48.440
+!MESSAGE Module ticket-monster on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 16:45:59.452
+!MESSAGE Module ticket-monster published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 16:58:52.117
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:00:00.154
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:00:26.077
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:01:40.115
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:02:42.563
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:03:29.970
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:04:30.248
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:06:10.877
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:07:05.857
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:08:54.992
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:19:58.212
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2012-12-29 17:20:35.192
+!MESSAGE 3 files modified in module ticket-monster
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2012-12-29 17:38:09.777
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2012-12-29 17:38:11.024
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2012-12-29 17:38:11.025
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2012-12-29 17:38:11.026
+!MESSAGE Server processes have been terminated.

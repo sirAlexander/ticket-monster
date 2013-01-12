@@ -1,0 +1,49 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+import java.io.Serializable;
+import java.lang.Long;
+import javax.persistence.*;
+import org.jboss.jdf.example.ticketmonster.model.Event;
+import org.jboss.jdf.example.ticketmonster.model.Venue;
+
+/**
+ * Entity implementation class for Entity: Show
+ *
+ */
+@Entity
+
+public class Show implements Serializable {
+
+	   
+	@Id
+	private Long id;
+	private Event event;
+	private Venue venue;
+	private static final long serialVersionUID = 1L;
+
+	public Show() {
+		super();
+	}   
+	public Long getId() {
+		return this.id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}   
+	public Event getEvent() {
+		return this.event;
+	}
+
+	public void setEvent(Event event) {
+		this.event = event;
+	}   
+	public Venue getVenue() {
+		return this.venue;
+	}
+
+	public void setVenue(Venue venue) {
+		this.venue = venue;
+	}
+   
+}

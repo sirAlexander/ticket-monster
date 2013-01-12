@@ -11,4 +11,21 @@
 <fullyQualifiedTypeName name="javax.ejb.Stateless"/>
 <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
 <fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="org.jboss.jdf.example.ticketmonster.model.MediaType"/>
+<fullyQualifiedTypeName name="org.hibernate.validator.constraints.URL"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
+<fullyQualifiedTypeName name="org.hibernate.validator.constraints.NotEmpty"/>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Min"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
 </qualifiedTypeNameHistroy>

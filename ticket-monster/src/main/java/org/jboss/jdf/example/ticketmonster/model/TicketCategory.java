@@ -93,9 +93,13 @@ public class TicketCategory implements Serializable {
 				+ ((description == null) ? 0 : description.hashCode());
 		return result;
 	}
+	
 	@Override
 	public String toString() {
-		return "TicketCategory [description=" + description + "]";
+		StringBuilder builder = new StringBuilder();
+		builder.append("TicketCategory [description=").append(description)
+				.append("]");
+		return builder.toString();
 	}
 	
 	

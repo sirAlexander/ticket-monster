@@ -1,0 +1,129 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+import java.io.Serializable;
+import java.lang.Long;
+import java.util.Date;
+import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+
+import org.jboss.jdf.example.ticketmonster.model.Show;
+
+/**
+ * Entity implementation class for Entity: Performance
+ *
+ */
+@Entity
+
+public class Performance implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+
+	   
+	/**
+     * The synthetic id of the object.
+     */
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
+	
+	/**
+     * <p>
+     * The date and start time of the performance.
+     * </p>
+     * 
+     * <p>
+     * A Java {@link Date} object represents both a date and a time, whilst an RDBMS splits out Date, Time and Timestamp.
+     * Therefore we instruct JPA to store this date as a timestamp using the <code>@Temporal(TIMESTAMP)</code> annotation.
+     * </p>
+     * 
+     * <p>
+     * The date and time of the performance is required, and the Bean Validation constraint <code>@NotNull</code> enforces this.
+     * </p>
+     */
+    @Temporal(TemporalType.TIMESTAMP)
+    @NotNull
+	private Date date;
+    
+    /**
+     * <p>
+     * The show of which this is a performance. The <code>@ManyToOne<code> JPA mapping establishes this relationship.
+     * </p>
+     * 
+     * <p>
+     * The show of which this is a performance is required, and the Bean Validation constraint <code>@NotNull</code> enforces
+     * this.
+     * </p>
+     */
+    @ManyToOne
+    @NotNull
+	private Show show;
+	
+
+	public Performance() {
+		super();
+	}   
+	public Long getId() {
+		return this.id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}   
+	public Date getDate() {
+		return this.date;
+	}
+
+	public void setDate(Date date) {
+		this.date = date;
+	}   
+	public Show getShow() {
+		return this.show;
+	}
+
+	public void setShow(Show show) {
+		this.show = show;
+	}
+	
+	
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((date == null) ? 0 : date.hashCode());
+		result = prime * result + ((show == null) ? 0 : show.hashCode());
+		return result;
+	}
+	
+	
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Performance other = (Performance) obj;
+		if (date == null) {
+			if (other.date != null)
+				return false;
+		} else if (!date.equals(other.date))
+			return false;
+		if (show == null) {
+			if (other.show != null)
+				return false;
+		} else if (!show.equals(other.show))
+			return false;
+		return true;
+	}
+	
+	
+	
+	@Override
+	public String toString() {
+		return "Performance [date=" + date + ", show=" + show + "]";
+	}
+	
+	
+   
+}

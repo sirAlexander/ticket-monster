@@ -1,0 +1,5 @@
+package org.jboss.jdf.example.ticketmonster.model;
+
+public class Seat {
+
+}
